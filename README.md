@@ -1,16 +1,23 @@
-### Hi there 👋
+### Chào 👋, tớ là [NguyenThaiTrung](https://github.com/nguyenthaitrung)
 
-<!--
-**nguyenthaitrung/nguyenthaitrung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Giới thiệu về bản thân:**
 
-Here are some ideas to get you started:
+ - Tên thật của mình là: **Nguyễn Thái Trung**
+ - Mình đang là một học sinh tại trường **KHONG BIET**
+ - Mình hiện đang học tập và sinh sống tại **Sài Gòn, TP.HCM**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Liên hệ:**
+ 
+ - Facebook: [Nguyễn Thái Trung](https://fb.me/NguyenThaiTrungWriter)
+ - Youtube Channel: [Nguyễn Thái Trung](https://www.youtube.com/user/epanet)
+ - Email: [nguyenthaitrung30062005@gmail.com](mailto:nguyenthaitrung30062005@gmail.com)
+ - Github: [NguyenThaiTrung](https://github.com/nguyenthaitrung)
+
+**Donate me:**
+ - Momo: [0785087340](https://nhantien.momo.vn/nguyenthaitrung)
+ - PayPal: [](https://paypal.me/)
+
+**Github Stats**
+
+![](https://raw.githubusercontent.com/nguyenthaitrung/stats/master/generated/overview.svg)![](https://raw.githubusercontent.com/nguyenthaitrung/stats/master/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api?username=nguyenthaitrung&include_all_commits=true&count_private=true&show_icons=true)![](http://github-readme-streak-stats.herokuapp.com?user=nguyenthaitrung) 
