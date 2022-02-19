@@ -3,8 +3,6 @@
 **Giới thiệu về bản thân:**
 
  - Tên thật của mình là: **Nguyễn Thái Trung**
- - Mình đang là một học sinh tại trường **KHONG BIET**
- - Mình hiện đang học tập và sinh sống tại **Sài Gòn, TP.HCM**
 
 **Liên hệ:**
  
